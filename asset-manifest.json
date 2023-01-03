@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactwebsite/static/js/main.b246a062.js",
+    "index.html": "/reactwebsite/index.html",
+    "main.b246a062.js.map": "/reactwebsite/static/js/main.b246a062.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b246a062.js"
+  ]
+}
